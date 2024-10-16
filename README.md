@@ -3,19 +3,19 @@ Redis workshop around redis features and how to setup and manage a simple redis 
 
 This repository contains following topics
 
-1. [Setup a simple redis](https://github.com/EasyPay-Asanpardakht/redis-workshop/tree/main/1-setup)
+1. [Setup a simple redis](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/tree/main/1-setup)
     - 1.1 Install redis docker image
     - 1.2 Connect to redis with `Go` client
     - 1.3 Do some simple stuf with it
-2. [Redis internal](https://github.com/EasyPay-Asanpardakht/redis-workshop/tree/main/2-internals)
-    - 2.1 [Redis `Data-strucutes` and `Operations`](https://github.com/EasyPay-Asanpardakht/redis-workshop/blob/main/2-internals/README_Datastructures.md)
+2. [Redis internal](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/tree/main/2-internals)
+    - 2.1 [Redis `Data-strucutes` and `Operations`](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Datastructures.md)
       - 2.1.1 Strings (SET, GET...)
       - 2.2.2 Numerics (INCR, DECR...)
       - 2.2.3 Lists (RPUSH, RPOP, BLPOP...)
       - 2.2.4 Sets (SADD, SREM...)
       - 2.2.5 Hashs (HSET, HGET...)
       - 2.2.6 Sorted Sets (ZADD, ZREM...)
-    - 2.2 [Redis Operations](https://github.com/EasyPay-Asanpardakht/redis-workshop/blob/main/2-internals/README_Operations.md)
+    - 2.2 [Redis Operations](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Operations.md)
       - 2.2.1 Pun/Sub
       - 2.2.2 Basic transactions
       - 2.2.3 Locking
