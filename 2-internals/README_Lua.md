@@ -2,7 +2,7 @@
 
 ## Overview
 
-Redis supports Lua scripting, allowing you to execute multiple commands atomically. Lua scripts can encapsulate complex logic, ensuring that a sequence of operations is executed without interference from other clients. This feature is useful for optimizing performance and maintaining data integrity.
+Redis supports Lua scripting, allowing you to execute multiple commands `atomically`. Lua scripts can encapsulate complex logic, ensuring that a sequence of operations is executed without interference from other clients. This feature is useful for optimizing performance and maintaining data integrity.
 
 ## Key Features of Redis Lua Scripting
 

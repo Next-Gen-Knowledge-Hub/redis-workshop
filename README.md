@@ -19,7 +19,7 @@ This repository contains following topics
       - 2.2.1 Pun/Sub
       - 2.2.2 Basic transactions
       - 2.2.3 Locking
-    - 2.3 Scripting with `Lua`
+    - 2.3 [Scripting with `Lua`](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Lua.md)
       - 2.3.1 Store and load script into redis
       - 2.3.2 Evaluation or redis scrypts
 3. Redis cluster & sharding
