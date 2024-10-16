@@ -29,7 +29,7 @@ This repository contains following topics
     - 3.4 Sharding
       - 3.4.1 Internal sharding structure
       - 3.4.2 Clientside key sharding
-4. Usecase (implementation `Go`)
+4. [Usecase (implementation `Go`)](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/tree/main/4-imp)
       - 4.1 Metric collector
       - 4.2 Autocomplete
       - 4.3 Lock
