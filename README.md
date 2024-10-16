@@ -22,7 +22,7 @@ This repository contains following topics
     - 2.3 [Scripting with `Lua`](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Lua.md)
       - 2.3.1 Store and load script into redis
       - 2.3.2 Evaluation or redis scrypts
-3. Redis cluster & sharding
+3. [Redis cluster & sharding](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/3-cluster&shard/README_cluster&shard.md)
     - 3.1 Setup a redis cluster inside docker
     - 3.2 Workaround redis cluster with `Go`
     - 3.3 Configurations (`listpack` configs)
