@@ -34,7 +34,7 @@ This repository contains following topics
       - [ ] 4.2 Autocomplete
       - [X] 4.3 Lock
       - [X] 4.4 Semaphor
-      - [ ] 4.5 Push (Send widget into user groups)
+      - [X] 4.5 Push (Send widget into user groups)
       - [ ] 4.6 Clientside sharding
  
 Feel free to use and make any change ;)
