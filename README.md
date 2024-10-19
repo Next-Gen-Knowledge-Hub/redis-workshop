@@ -10,11 +10,11 @@ This repository contains following topics
 2. [Redis internal](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/tree/main/2-internals)
     - 2.1 [Redis `Data-strucutes` and `Operations`](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Datastructures.md)
       - 2.1.1 Strings (SET, GET...)
-      - 2.2.2 Numerics (INCR, DECR...)
-      - 2.2.3 Lists (RPUSH, RPOP, BLPOP...)
-      - 2.2.4 Sets (SADD, SREM...)
-      - 2.2.5 Hashs (HSET, HGET...)
-      - 2.2.6 Sorted Sets (ZADD, ZREM...)
+      - 2.1.2 Numerics (INCR, DECR...)
+      - 2.1.3 Lists (RPUSH, RPOP, BLPOP...)
+      - 2.1.4 Sets (SADD, SREM...)
+      - 2.1.5 Hashs (HSET, HGET...)
+      - 2.1.6 Sorted Sets (ZADD, ZREM...)
     - 2.2 [Redis Operations](https://github.com/Next-Gen-Knowledge-Hub/redis-workshop/blob/main/2-internals/README_Operations.md)
       - 2.2.1 Pun/Sub
       - 2.2.2 Basic transactions
