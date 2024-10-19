@@ -10,8 +10,8 @@ if resault == val then
     if delResault == 1 then
         return true
     end
-
-    -- we couldn't remove the key !!
+else
+    -- you are not lock owner
     error("you aren't lock owner")
 end
 
